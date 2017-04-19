@@ -1,4 +1,7 @@
-# test coverage for  [semistandard (v10.0.0)](https://github.com/Flet/semistandard)  [![npm package](https://img.shields.io/npm/v/npmtest-semistandard.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semistandard) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semistandard.svg)](https://travis-ci.org/npmtest/node-npmtest-semistandard)
+# npmtest-semistandard
+
+#### basic test coverage for  [semistandard (v10.0.0)](https://github.com/Flet/semistandard)  [![npm package](https://img.shields.io/npm/v/npmtest-semistandard.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semistandard) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semistandard.svg)](https://travis-ci.org/npmtest/node-npmtest-semistandard)
+
 #### All the goodness of `feross/standard` with semicolons sprinkled on top.
 
 [![NPM](https://nodei.co/npm/semistandard.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/semistandard)
